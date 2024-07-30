@@ -85,7 +85,7 @@
             this.Delete.Name = "Delete";
             this.Delete.Size = new System.Drawing.Size(51, 47);
             this.Delete.TabIndex = 3;
-            this.Delete.Text = "Delete";
+            this.Delete.Text = "Delet";
             this.Delete.UseVisualStyleBackColor = true;
             this.Delete.Click += new System.EventHandler(this.Delete_Click);
             // 
@@ -220,6 +220,7 @@
             this.btnVirgula.TabIndex = 19;
             this.btnVirgula.Text = ",";
             this.btnVirgula.UseVisualStyleBackColor = true;
+            this.btnVirgula.Click += new System.EventHandler(this.btnVirgula_Click_1);
             // 
             // btnIgual
             // 

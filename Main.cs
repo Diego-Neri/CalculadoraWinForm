@@ -128,7 +128,7 @@ namespace Registra {
 
             switch (OperacaoSelecionada) {
                 case Operacao.Soma:
-                    Resultado = Valor + valorDigitado; 
+                    Resultado = Valor + valorDigitado;
                     break;
                 case Operacao.Subtracao:
                     Resultado = Valor - valorDigitado;
@@ -137,7 +137,7 @@ namespace Registra {
                     Resultado = Valor / valorDigitado;
                     break;
                 case Operacao.Multiplicacao:
-                    Resultado = Valor * valorDigitado; 
+                    Resultado = Valor * valorDigitado;
                     break;
                 case Operacao.Porcentagem:
                     Resultado = Valor * (valorDigitado / 100);
@@ -148,17 +148,14 @@ namespace Registra {
 
         }
 
-        private void btnVirgula_Click(object sender, EventArgs e) {
-            if (!txtResultado.Text.Contains(",")) {
-                txtResultado.Text += ",";
-            }
-
-        }
-
         private void Delete_Click(object sender, EventArgs e) {
             txtResultado.Text = "";
             lblOperacao.Text = "";
-
+        }
+        private void btnVirgula_Click_1(object sender, EventArgs e) {
+            if (!txtResultado.Text.Contains(",")) {
+                txtResultado.Text += ",";
+            }
         }
     }
 }
