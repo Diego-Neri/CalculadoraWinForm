@@ -25,14 +25,20 @@ Este projeto é uma calculadora simples desenvolvida em C# utilizando Windows Fo
 
 
 🔗 Links
-Visual Studio
-Documentação C#
-Documentação Windows Forms
-📬 Contato
+
+Visual Studio: https://visualstudio.microsoft.com/pt-br/
+
+Documentação C#: https://learn.microsoft.com/pt-br/dotnet/csharp/ 
+
+Documentação Windows Forms: https://learn.microsoft.com/pt-br/dotnet/desktop/winforms/overview/?view=netdesktop-8.0
+
+
+
+
+## 📬 Contato
+
 Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
 
 Email: diegoneri500@gmail.com
 
 LinkedIn: 
-
-
