@@ -19,9 +19,19 @@ Este projeto é uma calculadora simples desenvolvida em C# utilizando Windows Fo
 - **Multiplicação**: Multiplica dois números.
 - **Divisão**: Divide um número pelo outro (verifica se o divisor não é zero).
 
-## 💡 Instruções de Uso
+## 🎨 Interface 
+![InterfaceCalculadora](https://github.com/user-attachments/assets/be112787-6655-4a44-92d1-ec8a0263712c)
 
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/SEU_USUARIO/SEU_REPOSITORIO.git
+
+
+🔗 Links
+Visual Studio
+Documentação C#
+Documentação Windows Forms
+📬 Contato
+Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em contato:
+
+Email: diegoneri500@gmail.com
+LinkedIn: 
+
 
