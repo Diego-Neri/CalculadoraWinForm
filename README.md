@@ -41,4 +41,4 @@ Se você tiver alguma dúvida ou sugestão, sinta-se à vontade para entrar em c
 
 Email: diegoneri500@gmail.com
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/diegogabrielneri/
